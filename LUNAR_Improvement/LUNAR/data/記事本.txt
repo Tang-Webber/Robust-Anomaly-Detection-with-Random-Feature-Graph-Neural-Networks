@@ -1,0 +1,7 @@
+https://github.com/GuansongPang/deviation-network/blob/master/dataset/annthyroid_21feat_normalised.csv
+找不到THYROID所以從GITHUB拿別人的
+
+optdigits 資料
+y = 0 : 5066筆 (1 - 5066)
+y = 1 : 150筆   (5067 - 5216)
+
